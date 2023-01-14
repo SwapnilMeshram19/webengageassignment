@@ -1,0 +1,31 @@
+ans 1 : The approach will be the Task 1 is of low priority we will write a mail to the Task 1 customer that the product delivery will be late for 3 days after and for Task 2 inform the manager that I will not able to complete the task before the due date due to some reasons and to arrange the employee to complete the task on behalf me.
+
+
+ans 2 :
+
+informing Manoj (Account manager for Task 1): Hello sir Good Evening, The Task that you have given me it will be complete after 3 days due to some emergency in my family I will not able to do it on due date I will need extra time to complete. can I mail to customer for late submission of their project.
+informing Ravi (Account Manager for Task 2): Hello sir Good Evening, The Task that you have given me I will not able to complete it on the due date due to some family emergency I will not able to complete it. and they will need it in 2 days. can you please arrange the staff behalf me to complete the task.
+
+
+ans 3:
+
+I will first call them and inform them about the situation and delay in project and after informing them I will mail them ;
+
+Email writing
+
+Dear Task Client name,
+
+
+I’m writing to inform you that task is behind schedule. I apologize for the delay.
+
+this project has been delayed by 3 days.
+
+In order to address these unforeseen circumstances, I have taken action to deliver you on the given timline.
+
+The new estimated project completion date is new date.
+
+Please do not hesitate to contact me if you have any questions about the delay, the new project completion date, or any other details related to the project.
+
+Sincerely,
+swapnil meshram
+
