@@ -1,15 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
 
-.popup-container {
+#popup-container {
   position: absolute;
   width:80%;
   display: grid;
   margin: auto;
   left: 0;
   right: 0;
-  grid-template-columns: 50% 50%;
-  border: 2px solid black;
+  grid-template-columns: 45% 55%;
+  gap: 0px;
+  border: 1px solid rgb(118, 118, 118);
   font-family: 'Manrope', sans-serif;
+  top: 80px;
 }
 
 .image-container {
@@ -28,7 +30,6 @@
 
 
 .form-container{
-    border: 2px solid black;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -52,4 +53,70 @@
     font-size: 24px;
     font-weight: 400;
     letter-spacing: 0.8px;
+}
+
+.survey-form{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+#email-input{
+  font-size: 17px;
+  width: 70%;
+  padding: 7px;
+}
+#submit-button{
+  width: 70%;
+  font-size: 15px;
+  padding: 6px 0px;
+  background-color: rgb(69,69,69);
+  cursor: pointer;
+  color: white;
+  border: 1px solid rgb(69,69,69);
+}
+
+.number-input{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+
+}
+
+.number-input select{
+  font-size: 17px;
+}
+
+.number-input input{
+  font-size: 17px;
+  width: 60%;
+  padding: 7px;
+}
+.number-input input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#close{
+  border: 1px solid rgb(134, 134, 134);
+  width: max-content;
+  font-size: 20px;
+  padding: 7px 14px;
+  border-radius: 50px;
+  position: absolute;
+  right: 0;
+  border-top-right-radius: 2px;
+  cursor: pointer;
+}
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  #popup-container {
+    width:100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  }
 }
